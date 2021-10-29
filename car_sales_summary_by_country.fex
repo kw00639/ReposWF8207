@@ -1,4 +1,7 @@
 TABLE FILE ibisamp/CAR
+HEADING
+"Git Repository Testing"
+" "
 SUM RCOST
 BY COUNTRY
 END
